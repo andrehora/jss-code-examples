@@ -8,8 +8,8 @@ This page contains the material for the paper *Characterizing Top Ranked Code Ex
 
 ## Adopted readability tool
 
-- Download the jar file [here](http://tinyurl.com/kzw43n6)
 - Buse and Weimer. Learning a metric for code readability, TSE, 2009
+- Download the publicly available jar file [here](http://tinyurl.com/kzw43n6)
 
 ## Results
 
