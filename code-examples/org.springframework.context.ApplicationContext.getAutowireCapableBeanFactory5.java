@@ -1,0 +1,2 @@
+AutowireCapableBeanFactory autowireFactory = applicationContext.getAutowireCapableBeanFactory();
+autowireFactory.autowireBean(processor);
