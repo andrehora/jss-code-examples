@@ -4,8 +4,8 @@ This page contains the material for the paper *Characterizing Top Ranked Code Ex
 
 ## Code example webpages
 
-- You can find the code examples [here](./code-examples).
-- You can download all code examples directly [here](https://github.com/andrehora/jss-code-examples/raw/main/code-examples/code-examples.zip).
+- You can navigate on the code examples [here](./code-examples).
+- You can also download all code examples directly [here](https://github.com/andrehora/jss-code-examples/raw/main/code-examples/code-examples.zip).
 
 ## Results
 
