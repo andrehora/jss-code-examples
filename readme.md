@@ -16,4 +16,3 @@ This page contains the material for the paper *Characterizing Top Ranked Code Ex
 
 - Simone Scalabrino, Mario Linares-Vásquez, Denys Poshyvanyk, Rocco Oliveto. A Comprehensive Model for Code Readability. Journal of Software: Evolution and Process, 30(6), 1958, 2018.
 - You can download the readability tool in the authors' [online appendix](https://dibt.unimol.it/report/readability).
-- For convenience, you can also download the authors' readability tool directly [here](https://github.com/andrehora/jss-code-examples/raw/main/readability-tool/readability.zip).
